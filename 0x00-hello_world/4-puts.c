@@ -2,15 +2,9 @@
 
 
 
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+/*
+This is a comment section
+*/
 
 int main(void)
 
