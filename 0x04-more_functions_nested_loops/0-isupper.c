@@ -3,20 +3,17 @@
 
 /**
  * int_isupper - Checks for uppercase character
- *
- * Return: Alaways 0.
+ *@c: input character
+ * Return: 1 if is an uppercase character, o if in other case
  */
-int_isupper(int c)
+int _isupper(int c)
 {
-	char c;
-
-	if (c == 'A')
+	if (c >= 65 && c <= 90)
 	{
-		printf("%c: %\n", c, _isupper(c));
+		return (1);
 	}
-	else if ( c == 'a')
+	else
 	{
-		printf("%c: %d\n", c, _isupper(c));
+		return (0);
 	}
-	return (0);
 }
