@@ -2,15 +2,15 @@
 
 /**
  * print_numbers - prints numbers between 0 to 9.
- * Return: No return
+ * Return: no return
  */
 int print_numbers(void)
 {
-	int n;
+	int ch;
 
-	for (n = 48; n < 58; n++)
+	for (ch = 48; ch < 58; n++)
 	{
-		_putchar(n);
+		_putchar(ch);
 	}
 	_putchar('\n');
 }
