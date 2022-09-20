@@ -5,7 +5,7 @@
  *@n: input integer
  * Return: no retrurn.
  */
-void reset_to_98 (int *n)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
