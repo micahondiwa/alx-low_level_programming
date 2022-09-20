@@ -1,17 +1,11 @@
-#include<stdio.h>
+#include "main.h"
 
 /**
- * main -Takes an integer and restes its pointer to 98.
+ * reset_to_98 -Takes an integer and restes its pointer to 98.
  *
  * Return: Always 0.
  */
-int main (void)
+void reset_to_98 (int *n)
 {
-	int n;
-
-	n = 98;
-	printf("n = %d\n", n);
-	n = &n;
-	printf("n = %p\n", n);
-	return (0);
+	*n = 98;
 }
