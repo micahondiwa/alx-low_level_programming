@@ -2,7 +2,7 @@
 /**
  * _strcat - concatenates two strings,
  * @dest: destination.
- * src: source.
+ * @src: source.
  * Return: the pointer to dest.
  */
 char *_strcat(char *dest, char *src)
@@ -14,12 +14,12 @@ char *_strcat(char *dest, char *src)
 		count++;
 	}
 
-	while (count2 >= 0)
+	while (count >= 0)
 	{
 		*(dest + count) = *(src + count2);
-		if (*(src + count2) == '\0')
+		if(*(src + count2) == '\0')
 			break;
-		
+
 		count++;
 		count2++;
 	}
