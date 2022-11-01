@@ -37,4 +37,4 @@
 
 ## Contributers
 - [micahondiwa](github.com/micahondiwa): All projects. 
-- [john-the1-mwagiru](github.com/john-the1-mwagiru): [0x11-printf](0x11-printf) project. 
+- [john-the1-mwagiru](github.com/john-the1-mwagiru): A collobarator for the [0x11-printf](0x11-printf) project. 
