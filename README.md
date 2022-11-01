@@ -29,10 +29,10 @@
 |[0x0E-structures_typedef](0x0E-structures_typedef)|Implementing data strcutures in C using the ```typedef``` function, and custom functions in a custom header file.|
 |[0x0F-function_pointers](0x0F-function_pointers)|Implents function pointers, and the virtual memory concept in C.|
 |[0x10-variadic_functions](0x10-variadic_functions)|Implents variadic functions in C using ```va_strat```, ```va_arg```, ```va_end```, and ```const``` functions in C.|
-|[0x11-printf](0x11.C-printf)|A collaboration project to create a custom ```printf``` function with that works like the ```printf``` function in the ```stdio.h``` library.|
+[0x11-printf](0x11-printf)|A collaboration project to create a custom ```printf``` function with that works like the ```printf``` function in the ```stdio.h``` library.|
 |[0x12-singly_linked_lists](0x12-singly_linked_lists)|Implenting single-lined lists in C - building and using single linked lists in C.|
 |[0x13-more_singly_linked_lists](0x13-more_singly_linked_lists)|Implenting linked lists in C.|
-|[0x14-Bit_manipulation](0x14-Bit_manipulation)|How to manipulate bits and use bitwise operators.|
+|[0x14-Bit_manipulation](0x14-bit_manipulation)|How to manipulate bits and use bitwise operators.|
 
 
 ## Contributers
