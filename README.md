@@ -24,7 +24,7 @@
 |[0x09-static_libraries](0x09-static_libraries)|Basic usage of ```ar```, ```ranlib```, ```nm```|
 |[0x0A-argc_ argv](0x0A-argc_argv)|How to use arguments passed by your own program, prototypying a header file, and using ```__attribute__((unused))``` or ```(void)``` to compile functions with unused variables or parameters|
 |[0x0B-malloc_free](0x0B-malloc_free)|Implements dynamic and dynamic and automatic memory allocation, and freeing memory in C using ```malloc```, ```free```, and ```valgrid``` functions.|
-|[0x0C-more_malloc__free](0x0C-more_malloc_free)|Implenting ``exit```, ```calloc```, and ```realloc``` functions in C with a cutom header file.|
+|[0x0C-more_malloc__free](0x0C-more_malloc_free)|Implenting ```exit```, ```calloc```, and ```realloc``` functions in C with a cutom header file.|
 |[0x0D-preprocessor](0x0D-preprocessor)|Implementing C macros, predefined C macros, and gurding the C- header file.|
 |[0x0E-structures_typedef](0x0E-structures_typedef)|Implementing data strcutures in C using the ```typedef``` function, and custom functions in a custom header file.|
 |[0x0F-function_pointers](0x0F-function_pointers)|Implents function pointers, and the virtual memory concept in C.|
