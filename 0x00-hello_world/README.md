@@ -4,10 +4,10 @@
 
 ## Technologies 
 
-- Files written in vi, vim, and emacs editors. 
-- C files compiled using gcc 9.4.0.
+- Files written in ```vi```, ```vim```, and ```emacs``` editors. 
+- C files compiled using ```gcc 9.4.0```.
 - C files wriiten according to the betty coding style.
-- Files tested on Ubuntu 20.04 LTS using gcc.
+- Files tested on ````Ubuntu 20.04``` LTS using ```gcc```.
 
 ## Files
 
