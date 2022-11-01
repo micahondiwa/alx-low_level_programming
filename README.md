@@ -12,7 +12,7 @@
 
 | Directory  | Description |
 | ---  | --- |
-|[0x00-hello_World](0x00-hello_World) |Hello world|
+|[0x00-hello_world](0x00-hello_world) |Hello world|
 |[0x01-variables_if_else_while](0x01-variables_if_else_while)|variables|
 |[0x02-functions_nested_loops](0x02-functions_nested_loops)|Functions|
 |[0x03-debugging](0x03-debugging)|Debugging|
