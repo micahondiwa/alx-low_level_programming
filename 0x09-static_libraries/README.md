@@ -1,1 +1,17 @@
-Static Libraries
+# Static Libraries
+
+- Projects done during my Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
+
+## Technologies
+- Files written in ```vi```, ```vim```, and ```emacs``` editors. 
+- C files compiled using ```gcc 9.4.0```.
+- C files wriiten according to the betty coding style. 
+- Files tested on ```Ubuntu 20.04``` LTS using ```gcc```.
+
+## Directories 
+
+| Directory  | Description |
+| ---  | --- |
+|[libmy.a](libmy.a)|A static library ```libmy.a``` containing functions|
+|[create_static_lib.sh](create_static_lib.sh)| A script called ```create_static_lib.sh``` that creates a static library called ```liball.a``` from all the ```.c``` files that are in the current directory.
+|[main.h](main.h)|Header file|
