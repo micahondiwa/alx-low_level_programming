@@ -12,7 +12,7 @@
 
 | Directory  | Description |
 | ---  | --- |
-|[0x00. C - Hello, World](0x00. C - Hello, World) |Hello world|
+|[0x00.C - Hello, World](0x00.C - Hello, World) |Hello world|
 |[0x01. C - Variables, if, else, while](0x01. C - Variables, if, else, while)|variables|
 |[0x02. C - Functions, nested loops](0x02. C - Functions, nested loops)|Functions|
 |[0x03. C - Debugging](0x03. C - Debugging)|Debugging|
@@ -35,13 +35,6 @@
 |[0x14. C - Bit manipulation](0x14. C - Bit manipulation)|Bit Manipulation|
 
 
-## Contributers:
-
-@micahondiwa
-@john-the1-mwagiru
-
-
-
-
-
-
+## Contributers
+- [micahondiwa](github.com/micahondiwa)
+- [john-the1-mwagiru](github.com/john-the1-mwagiru)
