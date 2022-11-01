@@ -1,4 +1,4 @@
-Hello world
+# Hello world
 
 A project I did duiring my studies as a Fulll Stack Software Engineer at ALX Africa, a course offred by Holberton School. 
 
