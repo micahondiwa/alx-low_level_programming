@@ -16,7 +16,7 @@
 |[0x01-variables_if_else_while](0x01-variables_if_else_while)|variables|
 |[0x02-functions_nested_loops](0x02-functions_nested_loops)|Functions|
 |[0x03-debugging](0x03-debugging)|Debugging|
-|[0x04-more_functions_more_nested_loops](0x04-more_functions_more_nested_loops)|More on functions|
+|[0x04-more_functions_nested_loops](0x04-more_functions_nested_loops)|More on functions|
 |[0x05-pointers_arrays_and_strings](0x05-pointers_arrays_and_strings)|Pointers|
 |[0x06-more_pointers_arrays_and_strings](0x06-more_pointers_arrays_and_strings)|More on Pointers|
 |[0x07-even_more_pointers_arrays_and_strings](0x07-even_more_pointers_arrays_and_strings)|Even more on pointers|
