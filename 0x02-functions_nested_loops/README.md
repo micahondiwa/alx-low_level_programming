@@ -38,7 +38,3 @@
 |[100-times_table.c](100-times_table.c)| A function that prints the n times table, starting with 0.|
 |[main.h](main.h)|A custom header file.|
 |[_putchar.c](_putchar.c)|[Holberton's](https://www.holbertonschool.com/) Custom file for priting a character in C|
-
-
-
-
