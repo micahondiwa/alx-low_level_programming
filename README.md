@@ -32,7 +32,7 @@
 [0x11-printf](0x11-printf)|A collaboration project to create a custom ```printf``` function with that works like the ```printf``` function in the ```stdio.h``` library.|
 |[0x12-singly_linked_lists](0x12-singly_linked_lists)|Implenting single-lined lists in C - building and using single linked lists in C.|
 |[0x13-more_singly_linked_lists](0x13-more_singly_linked_lists)|Implenting linked lists in C.|
-|[0x14-Bit_manipulation](0x14-bit_manipulation)|How to manipulate bits and use bitwise operators.|
+|[0x14-bit_manipulation](0x14-bit_manipulation)|How to manipulate bits and use bitwise operators.|
 
 
 ## Contributers
