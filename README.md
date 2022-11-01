@@ -24,7 +24,7 @@
 |[0x09-static_libraries](0x09-static_libraries)|Static Libraries|
 |[0x0A-argc_ argv](0x0A-argc_argv)|Args|
 |[0x0B-malloc_free](0x0B-malloc_free)|malloc free|
-|[0x0C-more_malloc__ree](0x0C-more_malloc_free)|More on malloc|
+|[0x0C-more_malloc__free](0x0C-more_malloc_free)|More on malloc|
 |[0x0D-preprocessor](0x0D-preprocessor)|Preprocessor|
 |[0x0E-structures_typedef](0x0E-structures_typedef)|Structures|
 |[0x0F-function_pointers](0x0F-function_pointers)|Function Pointers|
