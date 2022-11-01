@@ -1,6 +1,6 @@
 # Low level programming
 
-- A project during my Full Stack Software Engineering studies at ALX Africa, a course offered by Holberton School.
+- Projects done during my Full Stack Software Engineering studies at ALX Africa, a course offered by Holberton School.
 
 ## Technologies
 - Files written in vi, vim, and emacs editors. 
