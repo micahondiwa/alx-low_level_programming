@@ -19,7 +19,7 @@
 |[0x04-more_functions_nested_loops](0x04-more_functions_nested_loops)|More on functions|
 |[0x05-pointers_arrays_strings](0x05-pointers_arrays_strings)|Pointers|
 |[0x06-pointers_arrays_strings](0x06-pointers_arrays_strings)|More on Pointers|
-|[0x07-even_more_pointers_arrays_and_strings](0x07-even_more_pointers_arrays_and_strings)|Even more on pointers|
+|[0x07-pointers_arrays_strings](0x07-pointers_arrays_strings)|Even more on pointers|
 |[0x08-recursion](0x08-recursion)|Recursion|
 |[0x09-static_libraries](0x09-static_libraries)|Static Libraries|
 |[0x0A-argc_ argv](0x0A-argc_argv)|Args|
