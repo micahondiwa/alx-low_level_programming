@@ -8,9 +8,9 @@
 - C files wriiten according to the betty coding style. 
 - Files tested on ```Ubuntu 20.04``` LTS using ```gcc```.
 
-## Directories 
+## Files
 
-| Directory  | Description |
+| File  | Description |
 | ---  | --- |
 |[0-strcat.c](0-strcat.c)|A function that concatenates two strings.|
 |[1-strncat.c](1-strncat.c)|A function that concatenates two strings.|
