@@ -10,7 +10,7 @@
 
 ## Directories 
 
-| Directory  | Description |
+| File | Description |
 | ---  | --- |
 |[dog.h](dog.h)|Defines a new type struct dog with the following elements: ```name```: type = ```char *```, ```age``` type = ```float```, ```owner```, type = ```char *```
 |[1-init_dog.c](1-init_dog.c)|A function that initialize a variable of type struct ```dog```.|
