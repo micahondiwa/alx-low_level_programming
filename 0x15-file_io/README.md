@@ -9,7 +9,7 @@
 - C files wriiten according to the betty coding style. 
 - Files tested on ```Ubuntu 20.04``` LTS using ```gcc```.
 
-## Directories 
+## Files
 
-| File | Description |
+| Filename | Description |
 | ---  | --- |
