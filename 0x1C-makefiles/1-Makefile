@@ -1,5 +1,5 @@
 CC=gcc
-scr=main.c school.c
+SRC=main.c school.c
 
 all:
 	$(cc) -o school
