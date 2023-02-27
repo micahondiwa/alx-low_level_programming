@@ -38,7 +38,6 @@
 |[0x18-dynamic_libraries](0x18-dynamic_libraries)|Implementing dynamic libraries in C, how it work, how to create one, and how to use it.|
 |[0x1A-hash_tables](0x1A-hash_tables)|Implementing hash functions in C|
 
-
-## Contributers
+### Contributers
 - [micahondiwa](https://github.com/micahondiwa): All projects. 
 - [john-the1-mwagiru](https://github.com/john-the1-mwagiru): A collobarator for the [0x11-printf](0x11-printf) project. 
