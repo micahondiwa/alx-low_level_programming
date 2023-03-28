@@ -35,9 +35,9 @@
 |[0x14-bit_manipulation](0x14-bit_manipulation)|How to manipulate bits and use bitwise operators.|
 |[0x15-file_io](0x15-file_io)|Using I/O System calls, ```open```, ```read```, and ```write``` and implementing ```O_RDONLY```, ```O_WRONLY```, ```O_RDWR```|
 |[0x17-doubly_linked_lists](0x17-doubly_linked_lists)|Implements doubly linked lists in ```C```.|
-|[0x18-dynamic_libraries](0x18-dynamic_libraries)|Implementing dynamic libraries in C, how it work, how to create one, and how to use it|
+|[0x18-dynamic_libraries](0x18-dynamic_libraries)|Implementing dynamic libraries in C, how it work, how to create one, and how to use it.|
 |[0x1A-hash_tables](0x1A-hash_tables)|Implementing hash functions in C|
 
 ### Contributers
 - [micahondiwa](https://github.com/micahondiwa): All projects. 
-- [john-the1-mwagiru](https://github.com/john-the1-mwagiru): A collobarator for the [0x11-printf](0x11-printf) project. 
+- [john-the1-mwagiru](https://github.com/john-the1-mwagiru): A collobarator for the [0x11-printf](0x11-printf) project
