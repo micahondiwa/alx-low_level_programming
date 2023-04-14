@@ -78,7 +78,7 @@ Requirements:
 - The clean, oclean, fclean, re rules should never fail
 - You are not allowed to have a list of all the .o files
 
-You are not allowed to google anything
+6. [5-island_perimeter.py](5-island_perimeter.py)
 - Create a function def island_perimeter(grid): that returns the perimeter of the island described in grid:
 - grid is a list of list of integers:
 - 0 represents a water zone
