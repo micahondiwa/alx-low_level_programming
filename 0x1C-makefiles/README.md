@@ -22,6 +22,8 @@ Requirements:
 - SRC: the .c files
 
 3. [2-Makefile](2-Makefile)
+
+
 Create your first useful Makefile.
 Requirements:
 - name of the executable: school
@@ -35,7 +37,7 @@ Requirements:
 - The all rule should recompile only the updated source files
 - You are not allowed to have a list of all the .o files
 
-
+4. [3-Makefile](3-Makefile)
 Requirements:
 
 name of the executable: school
