@@ -21,4 +21,4 @@
 |[100-jump.c](100-jump.c)|Write a function that searches for a value in a sorted array of integers using the Jump search algorithm.|
 |[101-O](101-O)|What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?|
 |[102-interpolation.c](102-interpolation.c)|Write a function that searches for a value in a sorted array of integers using the Interpolation search algorithm.|
-Write a function that searches for a value in a sorted array of integers using the Exponential search algorithm
+|[103-exponential.c](103-exponential.c)|Write a function that searches for a value in a sorted array of integers using the Exponential search algorithm.|
