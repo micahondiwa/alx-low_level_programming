@@ -17,4 +17,4 @@
 |[3-O](3-O)|What is the space complexity (worst case) of an iterative linear search algorithm in an array of size n?.|
 |[4-O](4-O)|What is the time complexity (worst case) of a binary search in an array of size n?|
 |[5-O](5-O)|What is the space complexity (worst case) of a binary search in an array of size n?|
-What is the space complexity of this function / algorithm?
+|[6-O](6-O)|What is the space complexity of this function / algorithm?|
