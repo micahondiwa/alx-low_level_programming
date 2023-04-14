@@ -20,3 +20,4 @@
 |[6-O](6-O)|What is the space complexity of this function / algorithm?|
 |[100-jump.c](100-jump.c)|Write a function that searches for a value in a sorted array of integers using the Jump search algorithm.|
 |[101-O](101-O)|What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?|
+Write a function that searches for a value in a sorted array of integers using the Interpolation search algorithm
