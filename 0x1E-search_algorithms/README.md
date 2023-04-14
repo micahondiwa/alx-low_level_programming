@@ -18,3 +18,4 @@
 |[4-O](4-O)|What is the time complexity (worst case) of a binary search in an array of size n?|
 |[5-O](5-O)|What is the space complexity (worst case) of a binary search in an array of size n?|
 |[6-O](6-O)|What is the space complexity of this function / algorithm?|
+Write a function that searches for a value in a sorted array of integers using the Jump search algorithm
