@@ -57,6 +57,8 @@ Requirements:
 - The clean, oclean, fclean, re rules should never fail
 - You are not allowed to have a list of all the .o files
 
+5. [4-Makefile](4-Makefile)
+
 Requirements:
 - name of the executable: school
 - rules: all, clean, fclean, oclean, re
