@@ -22,3 +22,4 @@
 |[101-O](101-O)|What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?|
 |[102-interpolation.c](102-interpolation.c)|Write a function that searches for a value in a sorted array of integers using the Interpolation search algorithm.|
 |[103-exponential.c](103-exponential.c)|Write a function that searches for a value in a sorted array of integers using the Exponential search algorithm.|
+You may have noticed that the basic binary search does not necessarily return the index of the first value in the array (if this value appears more than once in the array). In this exercise, you’ll have to solve this problem. Write a function that searches for a value in a sorted array of integers.
