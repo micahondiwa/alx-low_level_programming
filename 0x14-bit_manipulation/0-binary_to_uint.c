@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * binary_to_unit - converts a bianry number to 
+ * binary_to_unit - converts a bianry number to
  * an unsigned in.
  * @b: binary.
  *
